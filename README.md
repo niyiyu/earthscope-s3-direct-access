@@ -8,7 +8,7 @@ This repository provides tutorials for accessing EarthScope data on Amazon S3 di
   - Access to EarthScope S3. 
   - EarthScope S3 access point, which is not shared in this repo.
 - You are working in us-east-2 region on AWS.
-- s3fs or boto3 installed in your Python environment.
+- [s3fs](https://s3fs.readthedocs.io/en/latest/?badge=latest), [boto3](https://docs.aws.amazon.com/boto3/latest/), or [obstore](https://developmentseed.org/obstore/latest/) installed in your Python environment.
 
 ## More to Explore
 * EarthScope API documentation: https://api.earthscope.org/beta/docs#overview
