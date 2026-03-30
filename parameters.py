@@ -1,1 +1,1 @@
-ES_S3_ACCESS_POINT = ""
+ES_S3_ACCESS_POINT = "earthscope-mseed-res-na3mtd4fq5kz7pntcyr1uh46use2a--ol-s3"
